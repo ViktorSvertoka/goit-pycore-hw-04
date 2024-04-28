@@ -15,5 +15,5 @@ def get_cats_info(path):
 
 
 # Приклад використання функції
-cats_info = get_cats_info("cats_file.txt")
+cats_info = get_cats_info("task_2/cats_file.txt")
 print(cats_info)
